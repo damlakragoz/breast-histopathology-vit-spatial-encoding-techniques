@@ -1,0 +1,2 @@
+# breast-histopathology-vit-spatial-encoding-techniques
+This repository contains the research and code implementation for Vision Transformer (ViT)-based classification of breast histopathology Whole Slide Images. Our work explores the impact of tile ordering methods and positional encoding techniques on the performance of ViT models for breast cancer subtype classification using the BRACS dataset.
