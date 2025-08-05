@@ -16,7 +16,7 @@ This project:
   - **Hilbert curve (space-filling curve)**
  
 <p align="center">
-  <img src="images/traversal-techniques.png" width="500"><br>
+  <img src="images/traversal-techniques.png" width="400"><br>
   <em>Tile Traversal Techniques</em>
 </p>
 
@@ -48,12 +48,12 @@ This project:
    - Background removed via luminance threshold.
 <p align="center">
   <img src="images/before-after-tiling.png" width="45%">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="images/tiled-wsi.png" width="35%">
 </p>
 
 <p align="center">
-  <em>Left: Before & After Tiling | Right: Tiled Whole Slide Image</em>
+  <em>Left: WSI Before & After Tiling   |   Right: Tiled Whole Slide Image</em>
 </p>
 
 2. **Feature Embedding Generation**  
