@@ -14,6 +14,12 @@ This project:
   - **Raster scan**  
   - **Spiral traversal**  
   - **Hilbert curve (space-filling curve)**
+ 
+<p align="center">
+  <img src="images/traversal-techniques.png" width="400"><br>
+  <em>Tile Traversal Techniques</em>
+</p>
+
 - Tests **positional encoding methods**:
   - **1D sinusoidal encoding**  
   - **2D sinusoidal encoding**  
@@ -40,6 +46,15 @@ This project:
 1. **Tile Extraction**  
    - Non-overlapping 256×256 tiles generated.  
    - Background removed via luminance threshold.
+<p align="center">
+  <img src="images/before-after-tiling.png" width="45%">
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="images/tiled-wsi.png" width="35%">
+</p>
+
+<p align="center">
+  <em>Left: WSI Before & After Tiling   |   Right: Tiled Whole Slide Image</em>
+</p>
 
 2. **Feature Embedding Generation**  
    - Extracted using **Prov-GigaPath** (1536-dim per tile).  
@@ -50,7 +65,12 @@ This project:
 
 4. **Classification with ViT**  
    - Custom ViT with 2 transformer layers, 3 attention heads.  
-   - 3-class output: **Benign / Atypical / Malignant**.  
+   - 3-class output: **Benign / Atypical / Malignant**.
+
+<p align="center">
+  <img src="images/model-architecture.png" width="500"><br>
+  <em>Proposed Model Architecture</em>
+</p>
 
 5. **Evaluation**  
    - Metrics: **Accuracy, Macro Precision, Recall, F1-score**  
@@ -65,3 +85,6 @@ This project:
   year={2025},
   institution={Bilkent University},
 }
+
+
+
