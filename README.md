@@ -55,3 +55,13 @@ This project:
 5. **Evaluation**  
    - Metrics: **Accuracy, Macro Precision, Recall, F1-score**  
    - Confusion matrices for class-level analysis.
+     
+# Citation (Important!)
+
+  - If you use this code, please cite:
+@article{karagoz2025spatialvit,
+  title={Spatial Encoding Techniques for Breast Histopathology Classification with Vision Transformers},
+  author={İrem Damla Karagöz and Selim Aksoy},
+  year={2025},
+  institution={Bilkent University},
+}
