@@ -77,7 +77,7 @@ This project:
    - Metrics: **Accuracy, Macro Precision, Recall, F1-score**  
    - Confusion matrices for class-level analysis.
      
-# Citation (Important!)
+# Citation
 
   - If you use this code, please cite:
 @article{karagoz2025spatialvit,
