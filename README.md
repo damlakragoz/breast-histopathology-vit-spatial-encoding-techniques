@@ -7,8 +7,7 @@ Our work explores the impact of **tile ordering methods** and **positional encod
 
 ## Overview
 
-Breast histopathology diagnosis from Whole Slide Images (WSIs) requires models that capture both **local structures** and **global spatial context**.  
-While **Convolutional Neural Networks (CNNs)** focus on local features, **Vision Transformers (ViTs)** can leverage **self-attention** to capture long-range dependencies, but their performance is highly influenced by **positional encodings**.
+Breast histopathology diagnosis from Whole Slide Images (WSIs) requires models that capture both **local structures** and **global spatial context**. **Vision Transformers (ViTs)** can leverage **self-attention** to capture long-range dependencies, but their performance is highly influenced by **positional encodings**.
 
 This project:
 
