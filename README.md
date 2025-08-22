@@ -1,7 +1,9 @@
 # Spatial Encoding Techniques for Breast Histopathology Classification with Vision Transformers
 
 This repository contains the code and research implementation for **Vision Transformer (ViT)-based classification of breast histopathology Whole Slide Images (WSIs)** using **spatial encoding strategies**.  
-Our work explores the impact of **tile ordering methods** and **positional encoding techniques** on the performance of ViT models for breast cancer subtype classification using the **BRACS dataset**.
+Our work explores the impact of **tile ordering methods** and **positional encoding techniques** on the performance of ViT models for breast cancer subtype classification using the **BRACS dataset**. 
+
+[Read the Full Report](docs/CS390_Final_Report.pdf)
 
 ## Overview
 
