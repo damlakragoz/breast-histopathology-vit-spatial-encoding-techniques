@@ -79,13 +79,7 @@ This project:
      
 # Citation
 
-  - If you use this code, please cite:
-@article{karagoz2025spatialvit,
-  title={Spatial Encoding Techniques for Breast Histopathology Classification with Vision Transformers},
-  author={İrem Damla Karagöz and Selim Aksoy},
-  year={2025},
-  institution={Bilkent University},
-}
+  - If you use this code, please cite.
 
 
 
